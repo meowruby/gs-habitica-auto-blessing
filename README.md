@@ -1,8 +1,8 @@
-## Habitica Auto Blessing script host on Google Apps Script
+## Habitica Maximum Mana Exceeded report script to be hosted on Google Apps Script
 
-The auto blessing script will execute every 30 minutes, if found any weak members, will cast blessing util everyone full hp or my mama empty, then post the result if blessing sucessfull at least once.
+This is a WIP of a script that pulls a list of party members and generates a report with a list of all members whose current MP > Max MP and posts it in the party chat. It reminds the users to cast their skills before interacting with tasks, habits, or to-dos which would reset the member's current mana to their max mana. 
+Adapted from greatghouls Auto Blessing script with heavy help from ChatGPT.
 
-![](https://i.imgur.com/CD9NFUV.png)
 
 ----
 
